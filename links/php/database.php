@@ -4,9 +4,9 @@ class Database {
 
 
     private $host = "localhost";
-    private $db_name = "nutenor4_mybase";
-    private $username = "nutenor4_mybase";
-    private $password = "5hwBZ1&Q";
+    private $db_name = "root";
+    private $username = "root";
+    private $password = "root";
     public $conn;
 
     public function getConnection(){
